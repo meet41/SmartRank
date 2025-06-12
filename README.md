@@ -59,9 +59,3 @@ Build a Python application that takes a dataset of smartphones and ranks their f
 - Rank Features and Smartphones (based on user input) 
 ↓
 - Display Ranked List (UI output)
-
-### Related Project Ideas
-
-- Laptop or tablet feature ranking application
-- Car feature ranking and classification tool
-- Movie recommendation system based on feature ranking
